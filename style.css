@@ -1,0 +1,45 @@
+h1{
+    background-color: blue;
+    border-style: groove;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: aquamarine;
+}
+
+h2{
+    background-color: red;
+    border-style: groove;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:pink;
+}
+
+p{
+    background-color: blueviolet;
+    border-style: groove;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: yellow;
+}
+
+ul{
+    background-color: purple;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    border-style: groove;
+    color: aqua;
+}
+
+h2{
+    background-color: green;
+    border-style: groove;
+    color:pink;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.foto-flores{
+    max-height: 225px;
+    border: solid;
+}
+
+body{
+    background-color: red;
+}
+
